@@ -18,3 +18,5 @@ sudo docker run --rm -it contained https://example.com
 ```
 
 Now have a copy of contained running on your computer. (linux based systems only)
+
+Type <kbd>u</kbd> to change the URL and <kbd>q</kbd> to exit.
