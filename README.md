@@ -2,7 +2,7 @@
 
 ![Mediamodifier-Design](public/Mediamodifier-Design.svg)
 
-> Containerize and Terminalize your Browsing
+> ###### "Containerize and Terminalize your Browsing."
 
 
 Contained is a tool that runs on a docker container from the command line written in Python which is meant to function as a web browser.
